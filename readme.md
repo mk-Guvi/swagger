@@ -2,6 +2,8 @@ SWAGGER DOCUMENTATION
 
 Node.JS server WITH Typescript
 
+SWAGGER ROute- /api-docs
+
 env:
 
 DB_CONFIG=
