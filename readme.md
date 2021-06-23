@@ -7,6 +7,7 @@ SWAGGER ROute- /api-docs
 env:
 
 DB_CONFIG=
+
 JWT_TOKEN1=
 
 SCRIPTS TO START THE SERVER :
